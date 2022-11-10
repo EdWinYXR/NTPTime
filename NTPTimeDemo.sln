@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTPTimeDemo", "NTPTimeDemo\NTPTimeDemo.csproj", "{DE6A6858-79EB-4A0D-A15C-1D10E179A1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTPTimeManager", "NTPTimeManager\NTPTimeManager.csproj", "{DCB1FE07-4CF6-4D83-BCE7-F3EE83EA2B35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE6A6858-79EB-4A0D-A15C-1D10E179A1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6A6858-79EB-4A0D-A15C-1D10E179A1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6A6858-79EB-4A0D-A15C-1D10E179A1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6A6858-79EB-4A0D-A15C-1D10E179A1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB1FE07-4CF6-4D83-BCE7-F3EE83EA2B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB1FE07-4CF6-4D83-BCE7-F3EE83EA2B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB1FE07-4CF6-4D83-BCE7-F3EE83EA2B35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB1FE07-4CF6-4D83-BCE7-F3EE83EA2B35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC463389-98ED-4EDB-967F-1D993B297BF1}
+	EndGlobalSection
+EndGlobal
